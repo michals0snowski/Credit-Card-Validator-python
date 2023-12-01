@@ -1,1 +1,1 @@
-# Credit-Card-Validator-python
+Based on Luhn Algorithm, a credit card validator app. Although the idea came from python online course, program is made from scratch based only on Luhn's algorithm wiki page. No ChatGPT or any other AI.
